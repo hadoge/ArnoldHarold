@@ -4,6 +4,7 @@
 
 ![](https://github.com/hadoge/ArnoldHarold/blob/master/WikiResources/banner_01.jpg)
 
-project name
-project features
-contact information
+## Project Features
+
+- 3D Animation.
+- Joint based facial rigging.
