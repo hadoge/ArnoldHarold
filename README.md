@@ -2,7 +2,7 @@
 
 "Arnold and Harold" it's a short animated film project.
 
-![Banner](https://github.com/hadoge/Arnold-Harold/blob/develop/WikiResources/banner_01.jpg)
+![](https://github.com/hadoge/ArnoldHarold/blob/master/WikiResources/banner_01.jpg)
 
 project name
 project features
