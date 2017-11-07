@@ -2,8 +2,6 @@
 
 "Arnold and Harold" it's a short animated film project.
 
-Based on the conceptual description of a "SITCOM" 
-
 
 
 ![](https://github.com/hadoge/ArnoldHarold/blob/master/WikiResources/banner_01.jpg)
