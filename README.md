@@ -13,9 +13,9 @@
 
 ## Contact
 
-#####E-mail : gregoriomelamud2016@cev.com
+##### E-mail : gregoriomelamud2016@cev.com
 
-#####Portfolio : https://www.artstation.com/gregoriom
+##### Portfolio : https://www.artstation.com/gregoriom
 
 ## License
 
