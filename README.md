@@ -13,9 +13,9 @@
 
 ## Contact
 
-![](https://images.sftcdn.net/images/t_optimized,f_auto/p/d7103314-9b25-11e6-b424-00163ed833e7/2023611020/gmail-logo.png) gregoriomelamud2016@cev.com
-  
-  
+gregoriomelamud2016@cev.com
+
+https://www.artstation.com/gregoriom
 
 ## License
 
