@@ -8,3 +8,7 @@
 
 - 3D Animation.
 - Joint based facial rigging.
+
+## License
+
+Creative Commons
