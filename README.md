@@ -19,4 +19,4 @@
 
 ## License
 
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0")
+[Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
