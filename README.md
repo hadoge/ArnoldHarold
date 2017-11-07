@@ -21,4 +21,4 @@
 
 [Creative Commons](https://github.com/hadoge/ArnoldHarold/blob/master/LICENSE)
 
-![]("https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png")
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
