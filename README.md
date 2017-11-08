@@ -1,6 +1,6 @@
 # Arnold and Harold
 
-![](https://github.com/hadoge/ArnoldHarold/blob/master/WikiResources/banner_.png)
+![](https://github.com/hadoge/ArnoldHarold/blob/master/WikiResources/banner.png)
 
 "Arnold and Harold" it's a short animated film project.
 Based on the characteristic features of a TV comedy (Situation Comedy), this short film project talks about the daily day of two old men. 
