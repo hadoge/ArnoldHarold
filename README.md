@@ -7,6 +7,8 @@ Based on the characteristic features of a TV comedy (Situation Comedy), this sho
 
 Mainly focused on expressions, this short film provides comedy and complex criticism of the society.
 
+-------------------------------------------------------------
+
 Arnold y Harold es un cortometraje de animación.
 Basado en los rasgos caracteríscticos de una comedia de TV (Comedia de Situación), este cortometraje explica una pequeña parte del día a día de dos ancianos.
 
