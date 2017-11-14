@@ -2,12 +2,16 @@
 
 ![](https://github.com/hadoge/ArnoldHarold/blob/master/WikiResources/banner.png)
 
+[ENG]
+
 "Arnold and Harold" it's a short animated film project.
 Based on the characteristic features of a TV comedy (Situation Comedy), this short film project talks about the daily day of two old men.
 
 Mainly focused on expressions, this short film provides comedy and complex criticism of the society.
 
 -------------------------------------------------------------
+
+[ESP]
 
 Arnold y Harold es un cortometraje de animación.
 Basado en los rasgos caracteríscticos de una comedia de TV (Comedia de Situación), este cortometraje explica una pequeña parte del día a día de dos ancianos.
