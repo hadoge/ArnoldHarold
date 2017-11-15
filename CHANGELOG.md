@@ -3,20 +3,22 @@
 
 ##### Scripts
 
-[x] Original Script
-* Script (English Version)
-* Technical Script
+- [x] Original Script
+- [x] Script (English Version)
+- [x] Technical Script
 
 ##### Concept
 
-* Character Design
-* Environment Design
+- [x] Character Design
+- [x] Environment Design
 
 ##### Storyboard
 
-* Storyboard
+- [x] Storyboard
 
 ##### Animatic
 
-* Animatic 
-* Audio
+- [x] Animatic 
+- [x] Audio
+
+
