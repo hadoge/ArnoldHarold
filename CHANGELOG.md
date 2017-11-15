@@ -1,20 +1,20 @@
 
-#### PRE-PRODUCTION
+#### PRE-PRODUCTION 
 
 ##### Scripts
 
-* [Original Script]
-* [Script (English Version)]
-* [Technical Script]
+[x] Original Script
+* Script (English Version)
+* Technical Script
 
 ##### Concept
 
-* [Character Design]
-* [Environment Design]
+* Character Design
+* Environment Design
 
 ##### Storyboard
 
-* [Storyboard]
+* Storyboard
 
 ##### Animatic
 
