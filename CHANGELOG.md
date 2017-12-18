@@ -27,13 +27,13 @@
 
 ##### Modeling
 
-- [ ] Character Modeling (High and Low)
-- [ ] Props Modeling (High and Low)
+- [x] Character Modeling (High and Low)
+- [x] Props Modeling
 
 ##### UV Mapping
 
-- [ ] Character Mapping
-- [ ] Props Mapping
+- [x] Character Mapping
+- [x] Props Mapping
 
 ##### Texturing
 
