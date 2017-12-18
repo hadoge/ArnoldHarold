@@ -35,6 +35,10 @@
 - [x] Character Mapping
 - [x] Props Mapping
 
+##### Character Rig
+
+- [x] Character Rig
+
 ##### Texturing
 
 - [ ] Character Texture Maps
