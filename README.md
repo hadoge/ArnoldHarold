@@ -32,3 +32,12 @@ Basado en los rasgos caracter√≠scticos de una comedia de TV (Comedia de Situaci√
 [Creative Commons](https://github.com/hadoge/ArnoldHarold/blob/master/LICENSE)
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+## Links
+
+The project has been already finished and published.
+You can watch the full animation project here :
+
+https://www.youtube.com/watch?v=E5mnepsqFxw
+
+
